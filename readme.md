@@ -1,4 +1,5 @@
 # Simple AOP 1.0
+https://youtu.be/UesypMI-rDk
 Hello, this is a very simple aop script that I made that uses ace permissions, to set it up just fill out the config and give whoever you want the ace permission you choose. 
 
 - Highly Configurable
