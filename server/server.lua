@@ -1,7 +1,7 @@
 -- Set Map Name to Current AOP -- 
 RegisterServerEvent("aop:start")
 AddEventHandler("aop:start", function()
-    Wait(5000)
+    Wait(1000)
     SetMapName("Current AOP: " .. "None Set")
 end)
 
