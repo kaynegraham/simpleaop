@@ -4,6 +4,6 @@ Hello, this is a very simple aop script that I made that uses ace permissions, t
 [Preview Video](https://youtu.be/UesypMI-rDk)
 
 - Highly Configurable
-- 0.01ms Resmon
+- 0.00ms Resmon
 
 If you require support, just add me on discord at devkayne
